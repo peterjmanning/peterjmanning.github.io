@@ -1,2 +1,4 @@
-theme: tactile
+remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-remote-theme
 
