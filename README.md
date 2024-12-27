@@ -1,2 +1,1 @@
-# Peter Manning
-## Personal Project Portfolio
+## Project portfolio
