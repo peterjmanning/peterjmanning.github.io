@@ -1,6 +1,6 @@
-# Welcome to my project portfolio!
-
-## Click on a project to view more details, including code, images, and summaries.
+# Welcome to my project portfolio-
+### Here, you'll find my recent academic and personal programming projects featuring a variety of languages and concepts, including data science, analytics, and software engineering. Cheers!
+### Click on a project to view more details, including code, images, and summaries.
 
 ---
 
