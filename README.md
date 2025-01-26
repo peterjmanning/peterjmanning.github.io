@@ -1,9 +1,6 @@
----
-layout: default
-title: "Projects"
----
+# Welcome to my project portfolio!
 
-Click on a project to view more details, including code snippets, images, and summaries.
+## Click on a project to view more details, including code, images, and summaries.
 
 ---
 
