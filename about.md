@@ -54,5 +54,3 @@ Get in contact with me!
 <a href="#" class="contact-button" onclick="alert('Email: peterjmanning@berkeley.edu')">
   <img src="images/email.jpg" alt="Email">
 </a>
-
----
