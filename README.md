@@ -19,7 +19,7 @@ layout: default
         <img src="images/profile.jpg" alt="Peter Manning" class="profile-photo" />
 
         <!-- Add your GIF here -->
-        <img src="images/animation.gif" alt="Fun Animation" class="profile-gif" />
+        <img src="images/dss.gif" alt="Fun Animation" class="profile-gif" />
 
         <h2>Welcome!</h2>
         <p>
