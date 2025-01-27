@@ -29,6 +29,8 @@
 [About](about.md){: .btn .btn-info }
 
 <!-- Middle Section: Description -->
+---
+
 Hey there, I’m Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! 
 <br>
 <br>
@@ -52,3 +54,5 @@ Get in contact with me!
 <a href="#" class="contact-button" onclick="alert('Email: peterjmanning@berkeley.edu')">
   <img src="images/email.jpg" alt="Email">
 </a>
+
+---
