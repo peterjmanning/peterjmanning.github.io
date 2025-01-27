@@ -1,4 +1,5 @@
-[Home](./home.md) | [Projects](./projectPage.md) | [About](./about.md)
+
+[**Home**](README.md) | [**Projects**](projectPage.md) | [**About**](about.md)
 
 #### Here, you'll find my recent programming projects, involving work in data science, math, and software engineering.
 
