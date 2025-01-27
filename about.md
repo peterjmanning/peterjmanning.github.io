@@ -30,16 +30,17 @@
 
 <!-- Middle Section: Description -->
 ---
+About me: <br>
+With two years of technical experience under my belt, I’m proficient in several technical abilities, including data wrangling, pipelining, storage, analysis and visualization, and modeling. I'm proficient in Python, java, SQL & PostgreSQL, and R, and I'm in the process of learning Go and css/html/JS/react for web dev. 
 
-Hey there, I’m Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! 
-<br>
-<br>
-With two years of technical experience under my belt, I’m proficient in several technical abilities, including data wrangling, pipelining, storage, analysis and visualization, and modeling. 
+My goals:
+
+I’m seeking a full time role in data analytics/data engineering. Solving real problems with strategic use of, and the collection and storage of data is my specialty! Additionally, I'm intending on pursuing a master's in machine learning in my future for a career in AI and applied ML.
 <br>
 <br>
 With such a diverse skillset, along with experience in algorithms, probability and statistics, I’m a strong hire for any data role.
 
-Get in contact with me!
+↓ Don't hesitate to get in touch! ↓
 
 <!-- Bottom Section: Contact Buttons -->
 <a href="https://www.linkedin.com/in/your-profile" class="contact-button">
