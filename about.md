@@ -11,10 +11,16 @@
 .btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
-.btn-linkedin { background-color: #0077b5; }
-.btn-resume { background-color: #4CAF50; }
-.btn-phone { background-color: #FF9800; }
-.btn-email { background-color: #9C27B0; }
+.contact-button img {
+    width: 40px; /* Standard size for all icons */
+    height: 40px; /* Standard size for all icons */
+    vertical-align: middle;
+}
+.contact-button {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+}
 </style>
 
 <!-- Top Section: Navigation Buttons -->
@@ -23,16 +29,27 @@
 [About](about.md){: .btn .btn-info }
 
 <!-- Middle Section: Description -->
-Hey there, I'm Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! 
-<br> 
-With two years of technical experience under my belt, I’m proficient in many forms of data wrangling, pipelining, storage, organization, analysis, visualization, and modeling. With such a diverse skillset, along with experience in algorithms, probability and statistics, I’m a strong hire for any data role.
+![](images/dss.gif){: width="80" }
+
+Hey there, I’m Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! 
+<br>
+<br>
+With two years of technical experience under my belt, I’m proficient in several technical abilities, including data wrangling, pipelining, storage, analysis and visualization, and modeling. 
+<br>
+With such a diverse skillset, along with experience in algorithms, probability and statistics, I’m a strong hire for any data role.
 
 Get in contact with me!
 
-
-
 <!-- Bottom Section: Contact Buttons -->
-[LinkedIn](https://www.linkedin.com/in/peterxmanning){: .btn .btn-linkedin }
-[Resume](https://docs.google.com/document/d/12OT1G2pk7JruC2Z_F1J2xMmz6Qf-urPc/edit?usp=sharing&ouid=116509027107431059441&rtpof=true&sd=true){: .btn .btn-resume }
-[Phone](#){: .btn .btn-phone onclick="alert('Your Phone Number: 424-465-0093')" }
-[Email](#){: .btn .btn-email onclick="alert('Your Email: peterjmanning@berkeley.edu')" }
+<a href="https://www.linkedin.com/in/your-profile" class="contact-button">
+  <img src="images/linkedin.jpg" alt="LinkedIn">
+</a>
+<a href="https://docs.google.com/document/d/12OT1G2pk7JruC2Z_F1J2xMmz6Qf-urPc/edit?usp=sharing&ouid=116509027107431059441&rtpof=true&sd=true" class="contact-button">
+  <img src="images/files.png" alt="Resume">
+</a>
+<a href="#" class="contact-button" onclick="alert('Your Phone Number: +123-456-7890')">
+  <img src="images/phone.png" alt="Phone">
+</a>
+<a href="#" class="contact-button" onclick="alert('Your Email: your.email@example.com')">
+  <img src="images/email.jpg" alt="Email">
+</a>
