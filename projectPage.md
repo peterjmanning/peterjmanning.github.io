@@ -135,7 +135,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/homes.jpg" alt="Housing Price Prediction Tool" title="Housing Price Prediction Tool" width="410">
 </a>
 <br>  
-</p>Trained a regression model on Chicago Home Prices and built a feature engineering pipeline, and assessed model performance across high/low value homes.</p>
+<p>Trained a regression model on Chicago Home Prices and built a feature engineering pipeline, and assessed model performance across high/low value homes.</p>
 
 [**View Project Details »**](./projects/projName)  
 
@@ -146,7 +146,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/spams.jpg" alt="Spam Email Filter" title="Spam Email Filter" width="410">
 </a>
 <br> 
-</p>Used logistic regression to assess probability of spam for emails, used various features and assessed false positive/negative rates.</p>  
+<p>Used logistic regression to assess probability of spam for emails, used various features and assessed false positive/negative rates.</p>  
  
 [**View Project Details »**](./projects/projName)  
 
@@ -157,7 +157,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/imdb.png" alt="IMDB Ratings Analytics" title="IMDB Ratings Analytics" width="410">
 </a>
 <br>
-</p>Performed data exploration and analysis on imdb dataset in SQL.</p>  
+<p>Performed data exploration and analysis on imdb dataset in SQL.</p>  
 
 [**View Project Details »**](./projects/projName)  
 
@@ -168,7 +168,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/fileSimilarity.jpg" alt="File Similarity Scoring Tool" title="File Similarity Scoring Tool" width="410">
 </a>
 <br>
-</p>Used a pretrained hugging face model to compute cosine similarity between two files' content.</p>  
+<p>Used a pretrained hugging face model to compute cosine similarity between two files' content.</p>  
  
 [**View Project Details »**](./projects/projName)  
 
@@ -179,7 +179,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/robot.jpg" alt="Industrial Automation Analytics" title="Industrial Automation Analytics" width="410">
 </a>
 <br>
-</p>Explored and assessed the impact and rates of automation across all major industries in US recent history, and explored economic indicators such as market futures volatility and interest rates.</p>
+<p>Explored and assessed the impact and rates of automation across all major industries in US recent history, and explored economic indicators such as market futures volatility and interest rates.</p>
  
 [**View Project Details »**](./projects/projName)  
 
@@ -190,7 +190,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/catss.jpg" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="410">
 </a>
 <br>
-</p>Implemented a TypeRacer game playable in python which featured an Autocorrect tool, WPM tracking and typing accuracy.</p>  
+<p>Implemented a TypeRacer game playable in python which featured an Autocorrect tool, WPM tracking and typing accuracy.</p>  
  
 [**View Project Details »**](./projects/projName)  
 
@@ -201,7 +201,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/2048.jpg" alt="2048 Game" title="2048 Game" width="410">
 </a>
 <br>
-</p>A playable clone of the classic browser game "2048", featuring a pleasant graphical interface.</p>  
+<p>A playable clone of the classic browser game "2048", featuring a pleasant graphical interface.</p>  
  
 [**View Project Details »**](./projects/projName)  
 
@@ -212,7 +212,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/2d.png" alt="2D World Game" title="2D World Game" width="410">
 </a>
 <br>
-</p>Designed a 2D playable game in Java, featuring save & load, random seeds for game novelty, and a user interface.</p>
+<p>Designed a 2D playable game in Java, featuring save & load, random seeds for game novelty, and a user interface.</p>
 
 [**View Project Details »**](./projects/projName)  
 
@@ -223,7 +223,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/rr.jpg" alt="Pharma Stock Correlation Research" title="Pharma Stock Correlation Research" width="410">
 </a>
 <br>  
-</p>Designed a custom python tool for checking how the movement of one stock over desired time period was absorbed by the market, wrote findings in a paper.</p>  
+<p>Designed a custom python tool for checking how the movement of one stock over desired time period was absorbed by the market, wrote findings in a paper.</p>  
  
 [**View Project Details »**](./projects/projName)  
 
@@ -234,7 +234,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/trend.png" alt="Google Words Trends" title="Google Words Trends" width="410">
 </a>
 <br>
-</p>Built an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a google dataset.</p>
+<p>Built an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a google dataset.</p>
 
 [**View Project Details »**](./projects/projName)  
 
@@ -245,7 +245,7 @@ Click on a project to view more details, including code, images, and summaries.
   <img src="images/scheme.png" alt="Scheme Code Interpreter" title="Scheme Code Interpreter" width="410">
 </a>
 <br>
-</p>Written in python, the Scheme Interpreter parses and executes user entered code in the Scheme programming language.</p>
+<p>Written in python, the Scheme Interpreter parses and executes user entered code in the Scheme programming language.</p>
 
 [**View Project Details »**](./projects/projName)  
 
