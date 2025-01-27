@@ -8,9 +8,9 @@
 
 I have a passion for understanding and making use of data, and tackling complex problems using statistical thinking. Visit my projects page for a tour of my work, and visit the about tab for more info on me and to get in touch.
 
-<div style="text-align: center; margin-top: 20px;">
-  ![](images/dataq.gif){: width="48" }
-</div>
+<p style="text-align: center; margin-top: 20px;">
+  <img src="images/dataq.gif" alt="Data GIF" style="width: 48px;">
+</p>
 
 <style>
 .btn {
