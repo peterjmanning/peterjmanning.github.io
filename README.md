@@ -1,7 +1,7 @@
 [Home](README.md){: .btn .btn-primary } 
 [Projects](projectPage.md){: .btn .btn-success } 
 [About](about.md){: .btn .btn-info }
-
+![](images/dataq.gif){: width="48" style="float: left; margin-right: 20px;" }
 ---
 
 Welcome! I'm Peter, a UC Berkeley student studying data science and economics.
