@@ -23,8 +23,9 @@
 [About](about.md){: .btn .btn-info }
 
 <!-- Middle Section: Description -->
-}
-Hey there, I'm Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! With two years of technical experience under my belt, I’m proficient in many forms of data wrangling, pipelining, storage, organization, analysis, visualization, and modeling. With such a diverse skillset, along with experience in algorithms, probability and statistics, I’m a strong hire for any data role.
+Hey there, I'm Peter, and I’m seeking a full time role in data analytics, data engineering, and data science. Solving real problems with strategic use of, and the collection and storage of data is my specialty! 
+<br> 
+With two years of technical experience under my belt, I’m proficient in many forms of data wrangling, pipelining, storage, organization, analysis, visualization, and modeling. With such a diverse skillset, along with experience in algorithms, probability and statistics, I’m a strong hire for any data role.
 
 Get in contact with me!
 
