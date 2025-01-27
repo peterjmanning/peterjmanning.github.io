@@ -1,8 +1,6 @@
-![](images/dss.gif){: width="250" }
-
 [Home](README.md){: .btn .btn-primary } 
 [Projects](projectPage.md){: .btn .btn-success } 
-[About](about.md){: .btn .btn-info }
+[About](about.md){: .btn .btn-info } ![](images/dss.gif){: width="250" }
 
 Welcome! I'm Peter, a UC Berkeley student studying data science and economics.
 
