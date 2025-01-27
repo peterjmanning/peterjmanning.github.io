@@ -16,17 +16,26 @@ Get in contact with me!
 [Phone](#){: .btn .btn-phone onclick="alert('Your Phone Number: 424-465-0093')" }
 [Email](#){: .btn .btn-email onclick="alert('Your Email: peterjmanning@berkeley.edu')" }
 
-<style>
-.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 5px;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
+/* LinkedIn Button */
+.btn-linkedin {
+  background-color: #0077b5; /* LinkedIn blue */
+  color: white;
 }
-.btn-primary { background-color: #007bff; }
-.btn-success { background-color: #28a745; }
-.btn-info { background-color: #17a2b8; }
-</style>
+
+/* Resume Button */
+.btn-resume {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+/* Phone Button */
+.btn-phone {
+  background-color: #FF9800; /* Orange */
+  color: white;
+}
+
+/* Email Button */
+.btn-email {
+  background-color: #9C27B0; /* Purple */
+  color: white;
+}
