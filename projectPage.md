@@ -1,10 +1,10 @@
 [Home](README.md){: .btn .btn-primary } 
 [Projects](projectPage.md){: .btn .btn-success } 
 [About](about.md){: .btn .btn-info }
+---
 
-#### Here, you'll find my recent programming projects, involving work in data science, math, and software engineering.
-
-#### Click on a project to view more details, including code, images, and summaries.
+Here, you'll find my recent programming projects, involving work in data analysis, math, ML, and more.
+Click on a project to view more details, including code, images, and summaries.
 
 ---
 
