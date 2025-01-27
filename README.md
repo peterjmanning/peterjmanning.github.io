@@ -1,7 +1,7 @@
 [Home](README.md){: .btn .btn-primary } 
 [Projects](projectPage.md){: .btn .btn-success } 
 [About](about.md){: .btn .btn-info }
-![](images/dataq.gif){: width="58" style="float: right; margin-left: 20px;" }
+![](images/dataq.gif){: width="80" style="float: right; margin-left: 20px;" }
 
 ---
 
