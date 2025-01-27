@@ -12,8 +12,8 @@
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
 .contact-button img {
-    width: 40px; /* Standard size for all icons */
-    height: 40px; /* Standard size for all icons */
+    width: 48px; /* Standard size for all icons */
+    height: 48px; /* Standard size for all icons */
     vertical-align: middle;
 }
 .contact-button {
