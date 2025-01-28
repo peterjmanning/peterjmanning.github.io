@@ -16,7 +16,7 @@ Click on a project to view more details, including code, images, and summaries.
 <br>
 <p>Used past sales data of Honda Civics, seasonality, and economic factors as time series training data for a Civic sales prediction model.</p>
 
-[**View Project Details »**](./projects/civic-sales)
+[**View Project Details »**](./projects/civic-sales.pdf)
 
 ---
 
@@ -27,7 +27,7 @@ Click on a project to view more details, including code, images, and summaries.
 <br>
 <p>Predicted probability of coronary heart disease in patients, and modelled cost/benefit of medication, and outcomes.</p>
 
-[**View Project Details »**](./projects/loans-coronary-risk)
+[**View Project Details »**](./projects/coronary.pdf)
 
 ---
 
