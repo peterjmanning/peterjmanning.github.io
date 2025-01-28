@@ -8,7 +8,7 @@
 
 I have a passion for understanding and making use of data, and tackling complex problems using statistical thinking. Visit my projects page for a tour of my work, and visit the about tab for more info on me and to get in touch.
 
-<p style="text-align: center; margin-top: 20px;">
+<p style="text-align: center; margin-top: 5px;">
   <img src="images/dataq.gif" alt="Data GIF" style="width: 180px;">
 </p>
 
