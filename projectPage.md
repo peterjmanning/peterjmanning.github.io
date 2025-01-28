@@ -16,7 +16,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used past sales data of Honda Civics, seasonality, and economic factors as time series training data for a Civic sales prediction model.</p>
 
-[**View Project Details »**](./projects/civic-sales.pdf)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/civic-sales.ipynb)
 
 ---
 
@@ -27,7 +27,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Predicted probability of coronary heart disease in patients, and modelled cost/benefit of medication, and outcomes.</p>
 
-[**View Project Details »**](./projects/coronary.pdf)
+[**Check it out on GitHub »**](./projects/coronary-risk-modeling.ipynb)
 
 ---
 
@@ -38,7 +38,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used several decision tree and random forest models to predict yelp reviews, and used data to suggest what venue features lead to highest customer satisfaction.</p>
 
-[**View Project Details »**](./projects/yelp-reviews)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/yelp-reviews.ipynb)
 
 ---
 
@@ -49,7 +49,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Implemented sci-kit learn decision tree models trained on hand-written English letters.</p>
 
-[**View Project Details »**](./projects/ocr-predictions)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/OCR-predictions.ipynb)
 
 ---
 
@@ -60,7 +60,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used a variety of ML techniques to detect sentiment (positive/negative) of amazon reviews in raw text format.</p>
 
-[**View Project Details »**](./projects/amazon-review-sentiment)
+[**Check it out on GitHub »**](./projects/amazon-sentiment-prediction.ipynb)
 
 ---
 
@@ -71,7 +71,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Pathfinding pacman clone, where pacman finds optimal path to food. Used various search trees for entity pathfinding algorithms.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -82,7 +82,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>A full iteration of pacman where minimax/expectimax search with evaluation functions dictate the agents' next actions in the 2D world.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -93,7 +93,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Blind Pacman's faulty sensors make use of bayes nets CPTs and probabilistic inference to locate likeliest ghost positions, and path to them.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -104,7 +104,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Applied value iteration and Q-learning RL algorithms to a robot in a non-deterministic 2D world to find the optimal path through it.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -115,7 +115,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Implemented NNs to read MNIST digits, detect language of text, approximate various functions, and generate Shakespeare using a GPT architecture.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -126,7 +126,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Modelled probabilities of future Earthquakes in CA given past data using poisson processes.</p>
 
-[**View Project Details »**](./projects/projName)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
 
 ---
 
@@ -137,7 +137,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>  
 <p>Trained a regression model on Chicago Home Prices and built a feature engineering pipeline, and assessed model performance across high/low value homes.</p>
 
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -148,7 +148,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br> 
 <p>Used logistic regression to assess probability of spam for emails, used various features and assessed false positive/negative rates.</p>  
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -159,7 +159,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Performed data exploration and analysis on imdb dataset in SQL.</p>  
 
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -170,7 +170,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used a pretrained hugging face model to compute cosine similarity between two files' content.</p>  
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -181,7 +181,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Explored and assessed the impact and rates of automation across all major industries in US recent history, and explored economic indicators such as market futures volatility and interest rates.</p>
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -192,7 +192,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Implemented a TypeRacer game playable in python which featured an Autocorrect tool, WPM tracking and typing accuracy.</p>  
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -203,7 +203,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>A playable clone of the classic browser game "2048", featuring a pleasant graphical interface.</p>  
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -214,7 +214,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Designed a 2D playable game in Java, featuring save & load, random seeds for game novelty, and a user interface.</p>
 
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -225,7 +225,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>  
 <p>Designed a custom python tool for checking how the movement of one stock over desired time period was absorbed by the market, wrote findings in a paper.</p>  
  
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -236,7 +236,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Built an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a google dataset.</p>
 
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
@@ -247,7 +247,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Written in python, the Scheme Interpreter parses and executes user entered code in the Scheme programming language.</p>
 
-[**View Project Details »**](./projects/projName)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
 ---
 
