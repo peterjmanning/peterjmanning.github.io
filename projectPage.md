@@ -5,7 +5,7 @@
 ---
 
 Here, you'll find my recent programming projects, involving work in data analysis, math, ML, and more.
-Click on a project to view more details, including code, images, and summaries.
+Click on a project's image to view a pdf preview, or click the blue hyperlink to view the project on github.
 
 ---
 
