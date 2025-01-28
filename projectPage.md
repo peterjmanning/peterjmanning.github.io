@@ -126,7 +126,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Modelled probabilities of future Earthquakes in CA given past data using poisson processes.</p>
 
-[**Check it out on GitHub »**]https://github.com/peterjmanning/cs188/tree/main/machinelearning
+[**Check it out on GitHub »**](https://github.com/peterjmanning/data-140/blob/main/Lab_07.ipynb)
 
 ---
 
