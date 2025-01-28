@@ -10,7 +10,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Civic Sales Financial Model
-<a href="./projects/civic-sales">
+<a href="./projects/civic-sales.pdf">
   <img src="images/Honda-Civic.jpeg" alt="Civic Sales" title="Civic Sales" width="410">
 </a>
 <br>
@@ -21,18 +21,18 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Loans / Coronary Risk Modeling
-<a href="./projects/projName">
+<a href="./projects/coronary.pdf">
   <img src="images/hm-image-01.png" alt="Coronary Heart Disease Risk" title="Coronary Heart Disease Risk" width="410">
 </a>
 <br>
 <p>Predicted probability of coronary heart disease in patients, and modelled cost/benefit of medication, and outcomes.</p>
 
-[**Check it out on GitHub »**](./projects/coronary-risk-modeling.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/coronary-risk-modeling.ipynb)
 
 ---
 
 ## Yelp Reviews
-<a href="./projects/yelp-reviews">
+<a href="./projects/yelp-reviews.pdf">
   <img src="images/yelp.png" alt="Yelp Reviews" title="Yelp Reviews" width="410">
 </a>
 <br>
