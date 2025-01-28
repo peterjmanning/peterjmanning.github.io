@@ -13,6 +13,13 @@ I have a passion for understanding and making use of data, and tackling complex 
 </p>
 
 <style>
+/* Adjust the size of the top name banner */
+h1 {
+    font-size: 1.6em; /* Reduce font size by 20% */
+    margin: 0; /* Adjust margins if needed */
+    padding: 0; /* Adjust padding if needed */
+}
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -26,5 +33,3 @@ I have a passion for understanding and making use of data, and tackling complex 
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
 </style>
-
-
