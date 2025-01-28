@@ -1,25 +1,24 @@
 <style>
 .btn {
     display: inline-block;
-    padding: 5px 10px; /* Reduced padding */
-    margin: 3px; /* Reduced margin */
+    padding: 10px 20px;
+    margin: 5px;
     border-radius: 5px;
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: 14px; /* Smaller font size */
 }
 .btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
 .contact-button img {
-    width: 32px; /* Smaller icons */
-    height: 32px; /* Smaller icons */
+    width: 48px; /* Standard size for all icons */
+    height: 48px; /* Standard size for all icons */
     vertical-align: middle;
 }
 .contact-button {
     display: inline-block;
-    margin: 3px; /* Reduced margin */
+    margin: 5px;
     text-decoration: none;
 }
 </style>
@@ -54,3 +53,5 @@ I’m seeking a full time role in data analytics/data engineering. Solving real 
 <a href="#" class="contact-button" onclick="alert('Email: peterjmanning@berkeley.edu')">
   <img src="images/email.jpg" alt="Email">
 </a>
+
+
