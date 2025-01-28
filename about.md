@@ -22,13 +22,10 @@
     text-decoration: none;
 }
 </style>
-
-<!-- Top Section: Navigation Buttons -->
 [Home](README.md){: .btn .btn-primary } 
 [Projects](projectPage.md){: .btn .btn-success } 
 [About](about.md){: .btn .btn-info }
 
-<!-- Middle Section: Description -->
 ---
 __About me:__
 
