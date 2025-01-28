@@ -15,15 +15,16 @@ I have a passion for understanding and making use of data, and tackling complex 
 <style>
 .btn {
     display: inline-block;
-    padding: 8px 16px; /* Reduced padding by 20% */
+    padding: 10px 20px;
     margin: 5px;
     border-radius: 5px;
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: 0.8em; /* Reduced font size by 20% */
 }
 .btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
 </style>
+
+
