@@ -32,7 +32,7 @@
 ---
 __About me:__
 
-With two years of technical experience under my belt, I’m proficient in several technical abilities, including data wrangling, pipelining, storage, analysis and visualization, and modeling. <br>I'm proficient in Python, java, SQL & PostgreSQL, and R, and I'm in the process of learning Go and css/html/JS/react for web dev. 
+With two years of technical experience under my belt, I’m proficient in several technical domains, including data wrangling, pipelining, storage, analysis and visualization, and modeling. <br>I'm well practiced in Python, Java, SQL & PostgreSQL, and R, and I'm in the process of learning Go and css/html/JS/react for web dev. 
 
 __My goals:__
 
