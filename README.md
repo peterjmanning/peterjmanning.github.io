@@ -15,12 +15,13 @@ I have a passion for understanding and making use of data, and tackling complex 
 <style>
 .btn {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 8px 16px; /* Reduced padding by 20% */
     margin: 5px;
     border-radius: 5px;
     text-decoration: none;
     color: white;
     font-weight: bold;
+    font-size: 0.8em; /* Reduced font size by 20% */
 }
 .btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
