@@ -32,11 +32,11 @@
 ---
 __About me:__
 
-With two years of technical experience under my belt, I’m proficient in several technical domains, including data wrangling, pipelining, storage, analysis and visualization, and modeling. <br>I'm well practiced in Python, Java, SQL & PostgreSQL, and R, and I'm in the process of learning Go and css/html/JS/react for web dev. 
+With two years of technical experience, I excel in data wrangling, pipelining, storage, analysis, visualization, and modeling. Proficient in Python, Java, SQL, PostgreSQL, and R, I am currently expanding my skills in Go and CSS/HTML/JS/React for web development. My expertise lies in solving real-world problems through data ingestion, warehousing, and implementation, complemented by a strong foundation in probability and statistics.
 
 __My goals:__
 
-I’m seeking a full time role in data analytics/data engineering. Solving real problems with strategic use of, and the collection and storage of data is my specialty! Additionally, I'm intending on pursuing a master's in machine learning in my future for a career in AI and applied ML.
+I am actively pursuing a full-time position in data analytics/ data engineering, beginning summer 2025. Additionally, I am intending on pursuing a master's degree in machine learning, with the intention of building a career in AI/ applied ML.
 
 ↓ Don't hesitate to get in touch! ↓
 
