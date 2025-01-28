@@ -1,3 +1,6 @@
+[Home](README.md){: .btn .btn-primary } 
+[Projects](projectPage.md){: .btn .btn-success } 
+[About](about.md){: .btn .btn-info }
 <style>
 .btn {
     display: inline-block;
@@ -22,9 +25,6 @@
     text-decoration: none;
 }
 </style>
-[Home](README.md){: .btn .btn-primary } 
-[Projects](projectPage.md){: .btn .btn-success } 
-[About](about.md){: .btn .btn-info }
 
 ---
 __About me:__
