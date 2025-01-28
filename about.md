@@ -1,25 +1,43 @@
 <style>
+/* Override styles for the banner */
+.page-header {
+  padding: 10px 0; /* Reduce padding */
+  margin: 0; /* Remove margin */
+  height: 50%; /* Make the banner half its current size */
+}
+
+/* Style for your name inside the banner */
+.page-header h1, .page-header h2, .page-header h3 {
+  font-size: 20px; /* Smaller font size for your name */
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+}
+
+/* Styles for buttons */
 .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 5px;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px; /* Reduced padding */
+  margin: 3px; /* Reduced margin */
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 14px; /* Smaller font size */
 }
 .btn-primary { background-color: #007bff; }
 .btn-success { background-color: #28a745; }
 .btn-info { background-color: #17a2b8; }
+
+/* Styles for contact icons */
 .contact-button img {
-    width: 48px; /* Standard size for all icons */
-    height: 48px; /* Standard size for all icons */
-    vertical-align: middle;
+  width: 32px; /* Smaller icons */
+  height: 32px; /* Smaller icons */
+  vertical-align: middle;
 }
 .contact-button {
-    display: inline-block;
-    margin: 5px;
-    text-decoration: none;
+  display: inline-block;
+  margin: 3px; /* Reduced margin */
+  text-decoration: none;
 }
 </style>
 
@@ -53,5 +71,3 @@ I’m seeking a full time role in data analytics/data engineering. Solving real 
 <a href="#" class="contact-button" onclick="alert('Email: peterjmanning@berkeley.edu')">
   <img src="images/email.jpg" alt="Email">
 </a>
-
-
