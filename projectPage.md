@@ -43,7 +43,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## OCR Model
-<a href="./projects/OCR-predictions.pdf">
+<a href="./projects/ocr-predictions.pdf">
   <img src="images/OCR-Software.jpg" alt="OCR Model" title="OCR Model" width="410">
 </a>
 <br>
@@ -58,7 +58,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
   <img src="images/reviews.jpg" alt="Amazon Review Sentiment Prediction" title="Amazon Review Sentiment Prediction" width="410">
 </a>
 <br>
-<p>Used a variety of ML techniques including logistic regression, gated recurrent unit network, and conv. neural network, to predict sentiment of raw text amazon product reviews.</p>
+<p>Used a variety of ML algorithms (logistic regression, gated recurrent unit network, and conv. neural network, naive bayes), to predict sentiment of raw text amazon product reviews.</p>
 
 [**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/amazon-sentiment-prediction.ipynb)
 
@@ -71,7 +71,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Pathfinding pacman clone, where pacman finds optimal path to food. Used various search trees for entity pathfinding algorithms.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/search)
 
 ---
 
@@ -82,7 +82,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>A full iteration of pacman where minimax/expectimax search with evaluation functions dictate the agents' next actions in the 2D world.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/multiagent)
 
 ---
 
@@ -93,7 +93,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Blind Pacman's faulty sensors make use of bayes nets CPTs and probabilistic inference to locate likeliest ghost positions, and path to them.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/tracking)
 
 ---
 
@@ -104,7 +104,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Applied value iteration and Q-learning RL algorithms to a robot in a non-deterministic 2D world to find the optimal path through it.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/reinforcementlearning)
 
 ---
 
@@ -115,7 +115,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Implemented NNs to read MNIST digits, detect language of text, approximate various functions, and generate Shakespeare using a GPT architecture.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/machinelearning)
 
 ---
 
@@ -126,7 +126,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Modelled probabilities of future Earthquakes in CA given past data using poisson processes.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)
+[**Check it out on GitHub »**]https://github.com/peterjmanning/cs188/tree/main/machinelearning
 
 ---
 
