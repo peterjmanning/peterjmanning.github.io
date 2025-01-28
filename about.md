@@ -1,14 +1,19 @@
 <style>
 /* Override styles for the banner */
 .page-header {
-  padding: 10px 0; /* Reduce padding */
+  padding: 10px 0; /* Adjust padding */
   margin: 0; /* Remove margin */
-  height: 50%; /* Make the banner half its current size */
+  height: 120%; /* Increase banner size by 20% */
+}
+
+/* Reduce space between banner and buttons */
+.page-header + .btn-container {
+  margin-top: 10px; /* Adjust this value to reduce space */
 }
 
 /* Style for your name inside the banner */
 .page-header h1, .page-header h2, .page-header h3 {
-  font-size: 20px; /* Smaller font size for your name */
+  font-size: 24px; /* Slightly larger font size for your name */
   margin: 0; /* Remove margin */
   padding: 0; /* Remove padding */
 }
@@ -41,10 +46,17 @@
 }
 </style>
 
+<!-- Banner -->
+<div class="page-header">
+  <h1>Peter Manning</h1>
+</div>
+
 <!-- Top Section: Navigation Buttons -->
-[Home](README.md){: .btn .btn-primary } 
-[Projects](projectPage.md){: .btn .btn-success } 
-[About](about.md){: .btn .btn-info }
+<div class="btn-container">
+  [Home](README.md){: .btn .btn-primary } 
+  [Projects](projectPage.md){: .btn .btn-success } 
+  [About](about.md){: .btn .btn-info }
+</div>
 
 <!-- Middle Section: Description -->
 ---
