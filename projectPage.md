@@ -120,7 +120,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Earthquake Modelling
-<a href="./projects/projName">
+<a href="./projects/poisson.pdf">
   <img src="images/eq.png" alt="Earthquake Modelling" title="Earthquake Modelling" width="410">
 </a>
 <br>
