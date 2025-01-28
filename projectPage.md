@@ -16,7 +16,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used past sales data of Honda Civics, seasonality, and economic factors as time series training data for a Civic sales prediction model.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/civic-sales.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/civic-sales.ipynb)
 
 ---
 
@@ -27,7 +27,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Predicted probability of coronary heart disease in patients, and modelled cost/benefit of medication, and outcomes.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/coronary-risk-modeling.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/coronary-risk-modeling.ipynb)
 
 ---
 
@@ -38,29 +38,29 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Used several decision tree and random forest models to predict yelp reviews, and used data to suggest what venue features lead to highest customer satisfaction.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/yelp-reviews.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/yelp-reviews.ipynb)
 
 ---
 
 ## OCR Model
-<a href="./projects/ocr-predictions">
+<a href="./projects/OCR-predictions.pdf">
   <img src="images/OCR-Software.jpg" alt="OCR Model" title="OCR Model" width="410">
 </a>
 <br>
 <p>Implemented sci-kit learn decision tree models trained on hand-written English letters.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/OCR-predictions.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/OCR-predictions.ipynb)
 
 ---
 
 ## Amazon Review Sentiment Prediction
-<a href="./projects/projName">
+<a href="./projects/amazon-review-sentiment.pdf">
   <img src="images/reviews.jpg" alt="Amazon Review Sentiment Prediction" title="Amazon Review Sentiment Prediction" width="410">
 </a>
 <br>
-<p>Used a variety of ML techniques to detect sentiment (positive/negative) of amazon reviews in raw text format.</p>
+<p>Used a variety of ML techniques including logistic regression, gated recurrent unit network, and conv. neural network, to predict sentiment of raw text amazon product reviews.</p>
 
-[**Check it out on GitHub »**](./projects/amazon-sentiment-prediction.ipynb)
+[**Check it out on GitHub »**](https://github.com/peterjmanning/142a/blob/main/amazon-sentiment-prediction.ipynb)
 
 ---
 
