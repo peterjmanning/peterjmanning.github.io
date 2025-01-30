@@ -65,7 +65,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Pacman Search
-<a href="./projects/projName">
+<a href="./projects/search.pdf">
   <img src="images/maze.png" alt="Pacman Search" title="Pacman Search" width="390">
 </a>
 <br>
@@ -76,7 +76,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Pacman AI game
-<a href="./projects/projName">
+<a href="./projects/multiagent.pdf">
   <img src="images/minimax_depth.png" alt="Pacman AI Agent Game" title="Pacman AI Agent Game" width="390">
 </a>
 <br>
@@ -98,7 +98,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Reinforcement Learning
-<a href="./projects/projName">
+<a href="./projects/RL.pdf">
   <img src="images/reinforcementLearning.png" alt="Reinforcement Learning" title="Reinforcement Learning" width="390">
 </a>
 <br>
@@ -109,7 +109,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Neural Network Applications
-<a href="./projects/projName">
+<a href="./projects/nns.pdf">
   <img src="images/neural.jpg" alt="Neural Network Applications" title="Neural Network Applications" width="390">
 </a>
 <br>
@@ -120,7 +120,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Earthquake Modelling
-<a href="./projects/poisson.pdf">
+<a href="./projects/earthquakes.pdf">
   <img src="images/eq.png" alt="Earthquake Modelling" title="Earthquake Modelling" width="390">
 </a>
 <br>
@@ -142,18 +142,18 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Spam Email Filter  
-<a href="./projects/projName">
+<a href="./projects/spam.pdf">
   <img src="images/spams.jpg" alt="Spam Email Filter" title="Spam Email Filter" width="390">
 </a>
 <br> 
 <p>Used logistic regression to assess probability of spam for emails, used various features and assessed false positive/negative rates.</p>  
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/data100/project%20B)  
 
 ---
 
 ## IMDB Ratings Analytics  
-<a href="./projects/projName">
+<a href="./projects/imdb.pdf">
   <img src="images/imdb.png" alt="IMDB Ratings Analytics" title="IMDB Ratings Analytics" width="390">
 </a>
 <br>
@@ -164,24 +164,24 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## File Similarity Scoring Tool  
-<a href="./projects/projName">
+<a href="./projects/similarity.pdf">
   <img src="images/fileSimilarity.jpg" alt="File Similarity Scoring Tool" title="File Similarity Scoring Tool" width="390">
 </a>
 <br>
 <p>Used a pretrained hugging face model to compute cosine similarity between two files' content.</p>  
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/misc/blob/main/similarity.ipynb)  
 
 ---
 
 ## Industrial Automation Analytics  
-<a href="./projects/projName">
+<a href="./projects/robotics.pdf">
   <img src="images/robot.jpg" alt="Industrial Automation Analytics" title="Industrial Automation Analytics" width="390">
 </a>
 <br>
 <p>Explored and assessed the impact and rates of automation across all major industries in US recent history, and explored economic indicators such as market futures volatility and interest rates.</p>
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/misc/blob/main/automation-analytics.ipynb)  
 
 ---
 
