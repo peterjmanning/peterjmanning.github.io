@@ -3,16 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Peter's Portfolio</title>
-    <!-- Add your favicon link here -->
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <!-- Include your custom CSS -->
-    <style>
+    <title>Peter's Website</title>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">  <style>
         /* Adjust the size of the top name banner */
         h1 {
-            font-size: 1.6em; /* Reduce font size by 20% */
-            margin: 0; /* Adjust margins if needed */
-            padding: 0; /* Adjust padding if needed */
+            font-size: 1.6em;
+            margin: 0;
+            padding: 0;
         }
 
         .btn {
@@ -30,21 +27,20 @@
     </style>
 </head>
 <body>
-    <div id="readme-content"></div>
+    <a href="README.md" class="btn btn-primary">Home</a>
+    <a href="projectPage.md" class="btn btn-success">Projects</a>
+    <a href="about.md" class="btn btn-info">About</a>
 
-    <script>
-        // Fetch the README.md file and render it as HTML
-        fetch('https://raw.githubusercontent.com/peterjmanning/peterjmanning.github.io/main/README.md')
-            .then(response => response.text())
-            .then(markdown => {
-                // Convert Markdown to HTML using a library like marked.js
-                const htmlContent = marked.parse(markdown);
-                document.getElementById('readme-content').innerHTML = htmlContent;
-            })
-            .catch(error => console.error('Error loading README.md:', error));
-    </script>
+    <hr>
 
-    <!-- Include marked.js for Markdown parsing -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <h1>Welcome!</h1>
+    <p>I'm Peter, a UC Berkeley student studying data science and economics.</p>
+
+    <p>I have a passion for understanding and making use of data, and tackling complex problems using statistical thinking. Visit my projects page for a tour of my work, and visit the about tab for more info on me and to get in touch.</p>
+
+    <p style="text-align: center; margin-top: 5px;">
+        <img src="images/dataq.gif" alt="Data GIF" style="width: 180px;">
+    </p>
+
 </body>
 </html>
