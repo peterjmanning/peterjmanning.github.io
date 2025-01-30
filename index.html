@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peter's Portfolio</title>
+    <!-- Add your favicon link here -->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <!-- Include your custom CSS -->
+    <style>
+        /* Adjust the size of the top name banner */
+        h1 {
+            font-size: 1.6em; /* Reduce font size by 20% */
+            margin: 0; /* Adjust margins if needed */
+            padding: 0; /* Adjust padding if needed */
+        }
 
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        .btn-primary { background-color: #007bff; }
+        .btn-success { background-color: #28a745; }
+        .btn-info { background-color: #17a2b8; }
+    </style>
+</head>
+<body>
+    <div id="readme-content"></div>
+
+    <script>
+        // Fetch the README.md file and render it as HTML
+        fetch('https://raw.githubusercontent.com/peterjmanning/peterjmanning.github.io/main/README.md')
+            .then(response => response.text())
+            .then(markdown => {
+                // Convert Markdown to HTML using a library like marked.js
+                const htmlContent = marked.parse(markdown);
+                document.getElementById('readme-content').innerHTML = htmlContent;
+            })
+            .catch(error => console.error('Error loading README.md:', error));
+    </script>
+
+    <!-- Include marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</body>
+</html>
