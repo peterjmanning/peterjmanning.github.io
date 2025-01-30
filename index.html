@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Website Title</title>  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <div id="readme-content"></div>  
+
+  <script>
+    // This script is necessary because GitHub Pages processes the README *after* the initial HTML load.
+    window.addEventListener('DOMContentLoaded', (event) => {
+        // Find the element where the README is rendered (GitHub Pages automatically adds this ID)
+      const readmeContent = document.getElementById('readme-content');
+
+      // Wait for the README content to be loaded (it might take a moment)
+      const observer = new MutationObserver(() => {
+        if (readmeContent.innerHTML.trim() !== "") { // Check if content is no longer just whitespace
+            observer.disconnect(); // Stop observing
+
+            // After the README is loaded, you can manipulate the DOM if needed, but for the favicon, this is enough.
+        }
+      });
+
+      observer.observe(readmeContent, { childList: true, subtree: true }); // Observe changes to the readme-content element
+    });
+  </script>
+</body>
+</html>
