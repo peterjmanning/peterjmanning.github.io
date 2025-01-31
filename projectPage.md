@@ -109,11 +109,11 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Neural Network Applications
-<a href="./projects/nns.pdf">
+<a href="./projects/nn.pdf">
   <img src="images/neural.jpg" alt="Neural Network Applications" title="Neural Network Applications" width="390">
 </a>
 <br>
-<p>Implemented a host of neural network architectures to recognize hand-written digits, to detect the language of text, to approximate various functions, and to generate Shakespeare using a GPT/ transformer architecture.</p>
+<p>Implemented a host of neural network architectures (MLP, RNN, CNN, GPT) to recognize hand-written digits, to detect the language of text, to approximate various functions, and to generate Shakespeare using a GPT/ transformer architecture.</p>
 
 [**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/machinelearning)
 
