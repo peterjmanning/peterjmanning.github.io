@@ -186,7 +186,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Typing Race Game with Autocorrection  
-<a href="./projects/projName">
+<a href="./projects/catz.pdf">
   <img src="images/catss.jpg" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="390">
 </a>
 <br>
@@ -208,7 +208,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## 2D World Game  
-<a href="./projects/">
+<a href="./projects/byob.pdf">
   <img src="images/2d.png" alt="2D World Game" title="2D World Game" width="390">
 </a>
 <br>
@@ -247,7 +247,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>Written in python, the Scheme Interpreter parses, executes, and outputs evaluated, user-entered code in the Scheme programming language.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs61a/tree/main/scheme)  
 
 ---
 
