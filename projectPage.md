@@ -186,7 +186,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Typing Race Game with Autocorrection  
-<a href="./projects/catz.pdf">
+<a href="./projects/catrace.png">
   <img src="images/catss.jpg" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="390">
 </a>
 <br>
@@ -203,7 +203,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 <br>
 <p>A playable clone of the classic browser game "2048", featuring a pleasant graphical interface.</p>  
  
-[**Check it out on GitHub »**]([https://github.com/peterjmanning/repo/proj](https://github.com/peterjmanning/cs61b))  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs61b)
 
 ---
 
@@ -229,12 +229,12 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 
 ---
 
-## Google Words Trends  
-<a href="./projects/wordtrends.pdf">
+## Google Word Trends "NGrams"
+<a href="./projects/type.pdf">
   <img src="images/trend.png" alt="Google Words Trends" title="Google Words Trends" width="390">
 </a>
 <br>
-<p>Built an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a google dataset.</p>
+<p>Built a timeseries data reader with an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a public dataset.</p>
 
 [**Check it out on GitHub »**](https://github.com/peterjmanning/cs61b/tree/main/wordnet)  
 
