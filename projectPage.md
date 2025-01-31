@@ -163,12 +163,23 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 
 ---
 
+## Cluster ML Modeling (Unsupervised Learning) 
+<a href="./projects/cluster.pdf">
+  <img src="images/cluster.png" alt="Cluster ML Modeling" title="Cluster ML Modeling " width="390">
+</a>
+<br>
+<p>Built and validated several Unsupervised Learning -based models on toy and world bank data, including K-Means Clustering, Hierarchical Agglomerative Clustering, and Spectral Clustering algorithms. </p>
+
+[**Check it out on GitHub »**](https://github.com/peterjmanning/data100/blob/main/clustering-lab.ipynb)  
+
+---
+
 ## File Similarity Scoring Tool  
 <a href="./projects/similarity.pdf">
   <img src="images/fileSimilarity.jpg" alt="File Similarity Scoring Tool" title="File Similarity Scoring Tool" width="390">
 </a>
 <br>
-<p>Used a pretrained hugging face model to compute cosine similarity between two files' content.</p>  
+<p>Used a pretrained HuggingFace cosine similarity model to compute similarity between two files' text-based content.</p>  
  
 [**Check it out on GitHub »**](https://github.com/peterjmanning/misc/blob/main/similarity.ipynb)  
 
@@ -179,15 +190,15 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
   <img src="images/robot.jpg" alt="Industrial Automation Analytics" title="Industrial Automation Analytics" width="390">
 </a>
 <br>
-<p>Explored and assessed the impact and rates of automation across all major industries in US recent history, and explored economic indicators such as market futures volatility and interest rates.</p>
+<p>Explored and visualized the impact and rates of automation adoption across all major industries in US recent history, and displayed economic indicators such as market futures volatility and interest rates in tandem.</p>
  
 [**Check it out on GitHub »**](https://github.com/peterjmanning/misc/blob/main/automation-analytics.ipynb)  
 
 ---
 
 ## Typing Race Game with Autocorrection  
-<a href="./projects/catrace.png">
-  <img src="images/catss.jpg" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="390">
+<a href="./projects/catz.pdf">
+  <img src="images/catrace.png" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="390">
 </a>
 <br>
 <p>Implemented a typing race game playable in python which featured an Autocorrect tool, WPM typing metrics, and displayed player accuracy.</p>  
