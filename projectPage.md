@@ -87,7 +87,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
 ---
 
 ## Pacman Blind AI
-<a href="./projects/projName">
+<a href="./projects/tracking.pdf">
   <img src="images/pacman-blind.png" alt="Bayesian Pacman AI" title="Bayesian Pacman AI" width="390">
 </a>
 <br>
@@ -113,7 +113,7 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
   <img src="images/neural.jpg" alt="Neural Network Applications" title="Neural Network Applications" width="390">
 </a>
 <br>
-<p>Implemented NNs to read MNIST digits, detect language of text, approximate various functions, and generate Shakespeare using a GPT architecture.</p>
+<p>Implemented a host of neural network architectures to recognize hand-written digits, to detect the language of text, to approximate various functions, and to generate Shakespeare using a GPT/ transformer architecture.</p>
 
 [**Check it out on GitHub »**](https://github.com/peterjmanning/cs188/tree/main/machinelearning)
 
@@ -157,9 +157,9 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
   <img src="images/imdb.png" alt="IMDB Ratings Analytics" title="IMDB Ratings Analytics" width="390">
 </a>
 <br>
-<p>Performed data exploration and analysis on imdb dataset in SQL.</p>  
+<p>Performed data exploration and analysis on an IMDb dataset in SQL using duckdb in a Jupyter Notebook, writing complex queries and coupling them with pleasing data visualizations. .</p>  
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/data100/blob/main/imdb.ipynb)  
 
 ---
 
@@ -190,62 +190,62 @@ Click on a project's image to view a pdf preview, or click the blue hyperlink to
   <img src="images/catss.jpg" alt="Typing Race Game with Autocorrection" title="Typing Race Game with Autocorrection" width="390">
 </a>
 <br>
-<p>Implemented a TypeRacer game playable in python which featured an Autocorrect tool, WPM tracking and typing accuracy.</p>  
+<p>Implemented a typing race game playable in python which featured an Autocorrect tool, WPM typing metrics, and displayed player accuracy.</p>  
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs61a/tree/main/cats/cats)  
 
 ---
 
 ## 2048 Game  
-<a href="./projects/projName">
+<a href="./projects/2048.pdf">
   <img src="images/2048.jpg" alt="2048 Game" title="2048 Game" width="390">
 </a>
 <br>
 <p>A playable clone of the classic browser game "2048", featuring a pleasant graphical interface.</p>  
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**]([https://github.com/peterjmanning/repo/proj](https://github.com/peterjmanning/cs61b))  
 
 ---
 
 ## 2D World Game  
-<a href="./projects/projName">
+<a href="./projects/">
   <img src="images/2d.png" alt="2D World Game" title="2D World Game" width="390">
 </a>
 <br>
 <p>Designed a 2D playable game in Java, featuring save & load, random seeds for game novelty, and a user interface.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs61b)  
 
 ---
 
 ## Pharma Stock Correlation Research  
-<a href="./projects/projName">
+<a href="./projects/Pharma-Market-Paper.pdf">
   <img src="images/rr.jpg" alt="Pharma Stock Correlation Research" title="Pharma Stock Correlation Research" width="390">
 </a>
 <br>  
 <p>Designed a custom python tool for checking how the movement of one stock over desired time period was absorbed by the market, wrote findings in a paper.</p>  
  
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/misc/blob/main/pharma.ipynb)  
 
 ---
 
 ## Google Words Trends  
-<a href="./projects/projName">
+<a href="./projects/wordtrends.pdf">
   <img src="images/trend.png" alt="Google Words Trends" title="Google Words Trends" width="390">
 </a>
 <br>
 <p>Built an interface in Java to explore timeseries trends data for the history of any word in the English corpus from a google dataset.</p>
 
-[**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
+[**Check it out on GitHub »**](https://github.com/peterjmanning/cs61b/tree/main/wordnet)  
 
 ---
 
 ## Scheme Code Interpreter  
-<a href="./projects/projName">
+<a href="./projects/scheme.pdf">
   <img src="images/scheme.png" alt="Scheme Code Interpreter" title="Scheme Code Interpreter" width="390">
 </a>
 <br>
-<p>Written in python, the Scheme Interpreter parses and executes user entered code in the Scheme programming language.</p>
+<p>Written in python, the Scheme Interpreter parses, executes, and outputs evaluated, user-entered code in the Scheme programming language.</p>
 
 [**Check it out on GitHub »**](https://github.com/peterjmanning/repo/proj)  
 
