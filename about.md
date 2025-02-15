@@ -41,7 +41,7 @@ I am actively pursuing a full-time position in data analytics/ data engineering,
 <a href="https://www.linkedin.com/in/your-profile" class="contact-button">
   <img src="images/linkedin.jpg" alt="LinkedIn">
 </a>
-<a href="https://docs.google.com/document/d/12OT1G2pk7JruC2Z_F1J2xMmz6Qf-urPc/edit?usp=sharing&ouid=116509027107431059441&rtpof=true&sd=true" class="contact-button">
+<a href="https://docs.google.com/document/d/1BsBRJPDmEii5Xf5B9DUFcybNsvCZhbvZ/edit?usp=sharing&ouid=100482247357009850338&rtpof=true&sd=true" class="contact-button">
   <img src="images/files.png" alt="Resume">
 </a>
 <a href="#" class="contact-button" onclick="alert('Phone: +4244650093')">
